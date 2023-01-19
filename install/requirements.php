@@ -13,7 +13,7 @@ if (!extension_loaded('mysqli')) {
     $error        = true;
     $requirement2 = "<span class='label label-danger'>Not enabled</span>";
 } else {
-    $requirement2 = "<span class='label label-success'>Enabled</span>";
+    $requirement2 = "<span class='label label-success'>CHAL GAYI NA BHAI</span>";
 }
 
 if (!extension_loaded('pdo')) {
